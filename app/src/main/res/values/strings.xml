@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sinam Barcode Scanner</string>
+    <string name="button_add">+</string>
+    <string name="button_send">M</string>
+    <string name="dialog_title">Receiver\'s number</string>
+    <string name="dialog_message">Edit receiver\'s number if needed:</string>
+</resources>
